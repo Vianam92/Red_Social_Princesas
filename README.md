@@ -1,6 +1,6 @@
 **[Made by Vianam92](https://github.com/Vianam92)** 🤖️
 
-- Exercise URL: [Paddles](vianam92.github.io/Red_Social_princesas/)
+- Exercise URL: [Red Social Princess](vianam92.github.io/Red_Social_princesas/)
 
 ---
 # Red_Social_Princesas
