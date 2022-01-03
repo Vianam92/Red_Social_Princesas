@@ -24,8 +24,8 @@ body {
 
 .div {
     display: flex;
-    flex-direction: column;
-    width: 150px;
+    align-items: center;
+    width: 300px;
     padding-left: 15px;
 }
 
@@ -55,5 +55,10 @@ body {
 @media(min-width:768px) {
     .text {
         width: 500px;
+    }
+
+    .div {
+        flex-direction: column;
+        width: 150px;
     }
 }
